@@ -1,10 +1,6 @@
 # 🏠 Giot - Smart Home & EV Hub
 
 <p align="center">
-  <img src="assets/giot-logo.png" alt="Giot Logo" width="120" />
-</p>
-
-<p align="center">
   <strong>Your Smart Home & Electric Vehicle Command Center</strong><br>
   <em>Akıllı Ev ve Elektrikli Araç Kontrol Merkeziniz</em>
 </p>
@@ -223,7 +219,7 @@ Control your home with your voice / Evinizi sesinizle kontrol edin:
 ## 📲 Download / İndir
 
 <p align="center">
-  <a href="#">
+  <a href="https://apps.apple.com/tr/app/giot-smart-home-ev-system/id6758670728">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on App Store" height="50" />
   </a>
 </p>
@@ -252,10 +248,7 @@ MIT Lisansı - Kullanmak, değiştirmek ve dağıtmak ücretsiz.
 
 ---
 
-<p align="center">
-  <strong>Made with ❤️ in Turkey 🇹🇷</strong>
-</p>
 
 <p align="center">
-  <sub>© 2025 Giot. All rights reserved.</sub>
+  <sub>© 2026 Giot. All rights reserved.</sub>
 </p>
